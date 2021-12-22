@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Importtoexcel", "Importtoexcel.csproj", "{5982BA70-700E-4FB3-9356-54732A9D3571}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Importtoexcel.Data", "..\Importtoexcel.Data\Importtoexcel.Data.csproj", "{A7A342EC-C7F5-46EC-B6BE-EA8765925DD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5982BA70-700E-4FB3-9356-54732A9D3571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5982BA70-700E-4FB3-9356-54732A9D3571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5982BA70-700E-4FB3-9356-54732A9D3571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5982BA70-700E-4FB3-9356-54732A9D3571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7A342EC-C7F5-46EC-B6BE-EA8765925DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A342EC-C7F5-46EC-B6BE-EA8765925DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A342EC-C7F5-46EC-B6BE-EA8765925DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A342EC-C7F5-46EC-B6BE-EA8765925DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ECA6D5A-EADB-4DFA-903F-75D68E4E72BE}
+	EndGlobalSection
+EndGlobal
